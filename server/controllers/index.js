@@ -1,6 +1,6 @@
 var models = require('../models');
 var bluebird = require('bluebird');
-
+var schema = require('../schema.sql');
 
 
 module.exports = {
